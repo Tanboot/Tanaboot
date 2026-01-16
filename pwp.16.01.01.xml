@@ -17,7 +17,9 @@
     <expires>2026-01-17T10:30:00+07:00</expires>
     <senderName>A separate group for Raydant to support DDPM.</senderName>
     <headline>ตรวจสอบตัวอักษร1000ตัวอักษร</headline>
-    <instruction>URGENT PUBLIC ADVISORY: CRITICAL DROUGHT SITUATION AND MANDATORY WATER CONSERVATION PROTOCOLSDue to severe climatic variability and the ongoing El Niño phenomenon, cumulative rainfall levels have fallen significantly below annual averages. Recent hydrological assessments of major reservoirs and natural water sources indicate that water reserves have depleted to critical threshold levels. Without immediate and stringent management strategies, there is an imminent risk of severe water scarcity affecting ecosystem stability, agricultural output, and domestic supply security throughout this unusually prolonged dry season.To mitigate the impact of this crisis and ensure sustainable water availability, a Drought Warning is hereby issued. We urgently request full cooperation from all sectors to strictly adhere to the following conservation measures: 1. Residential & General Public Guidelines: Leak Detection: Inspect internal plumbing and fixtures immediately. Even minor leaks (e.g., dripping)</instruction>
+    <instruction>ปภ.เตือนระดับแม่น้ำปิงสูงขึ้น 02-10-2025 22:01:44 ปภ.และ จ.เชียงใหม่ ได้รับแจ้งจาก สนง.ชลประทานที่ 1 ว่า เนื่องจากมีฝนตกหนักในหลายพื้นที่ คาดว่าวันที่ 3 ต.ค. 68 เวลา 09.00-11.00 น. ระดับน้ำ P.1 สะพานนวรัฐ จะมีระดับ 3.7-3.9 ม.
+เทียบกับระดับคันกั้นน้ำป้องกันน้ำท่วมในเขตเมือง (+4.20 ม.) จะต่ำกว่า 0.30-0.50 ม. ไม่ล้นคันกั้นน้ำ แต่จะทำให้ น้ำปริ่มและล้นตลิ่งเล็กน้อย เฉพาะที่ลุ่มต่ำนอกคันกั้นน้ำ อ.เมืองฯ และ อ.สารภี
+ให้ผู้อยู่ในพื้นที่เสี่ยง ยกของขึ้นที่สูง ดูแลกลุ่มเปราะบาง และติดตามข่าวสารราชการอย่างใกล้ชิด หากสถานการณ์เปลี่ยนแปลงอย่างมีนัยสำคัญจะแจ้งให้ทราบอีกครั้งหนึ่ง DDPM</instruction>
     <area>
       <areaDesc>Ayutthaya</areaDesc>
       <polygon>14.656001,100.606989 14.634016,100.590443 14.604552,100.582057 14.591859,
@@ -48,6 +50,7 @@
   </info>
 
 </alert>
+
 
 
 
